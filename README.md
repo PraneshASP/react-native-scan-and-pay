@@ -8,11 +8,11 @@
 
 			* Clone this repository.
 			* Enter the following Commands :
-			 ```cd scan-and-pay```
-			 ```npm install```
-			 ```node paypal.js``` -->This is the Server for Payments
-			* Open new terminal tab , navigate into the scan-and-pay folder and hit "npm start".
-			* A browser window pops up at localhost:19002/
+			    > cd scan-and-pay
+			    > npm install
+			    > node paypal.js -->This is the Server for Payments
+			* Then ,Open new terminal tab , navigate into the scan-and-pay folder and hit "npm start".
+			* A browser window pops up at > localhost:19002/
 			* Click on tunnel and then scan the QR-Code on the Expo App(You can download that app from PlayStore).
 			* Wooah ! See it in action .
 
