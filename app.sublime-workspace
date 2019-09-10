@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"authKey"
+			],
+			[
+				"auth",
+				"authKey"
+			],
+			[
+				"mobile",
+				"mobileNumber"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"pro",
+				"pro_name"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"Appro",
+				"Approved"
+			],
+			[
+				"R",
+				"Review"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"review",
+				"review"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"hash",
+				"hashedpassword"
+			],
+			[
+				"memberid",
+				"memberid"
+			],
+			[
+				"cur",
+				"currentPassword"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"mem",
+				"memberID"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"syn",
+				"syncChains"
+			],
+			[
+				"node",
+				"nodemon"
+			],
+			[
+				"blo",
+				"blockchain"
+			],
+			[
+				"bode",
+				"bodyParser"
+			],
+			[
+				"so",
+				"sockets"
+			],
+			[
+				"t",
+				"toString"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mi",
+				"mine"
+			],
+			[
+				"cl",
+				"clear_transactions"
+			],
+			[
+				"s",
+				"socket"
+			],
+			[
+				"br",
+				"broadcastTransaction"
+			],
+			[
+				"tra",
+				"transactionPool"
+			],
+			[
+				"m",
+				"MESSAGE_TYPES"
+			],
+			[
+				"transa",
+				"transactions"
+			],
+			[
+				"bloc",
+				"blockchainWallet"
+			],
+			[
+				"p",
+				"publicKey"
+			],
+			[
+				"M",
+				"MINING_REWARD"
+			],
+			[
+				"INITIAL_",
+				"INITIAL_CITY"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"c",
+				"chain"
+			],
+			[
+				"o",
+				"outputs"
+			],
+			[
+				"data",
+				"dataHash"
+			],
+			[
+				"Block",
+				"Block"
+			],
+			[
+				"l",
+				"lastBlock"
+			],
+			[
+				"d",
+				"difficulty"
+			],
+			[
+				"se",
+				"sendChain"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"me",
+				"messageHandler"
+			],
+			[
+				"p2p",
+				"p2pServer"
+			],
+			[
+				"conn",
+				"connectSocket"
+			],
+			[
+				"P",
+				"P2P_PORT"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"b",
+				"bodyParser"
+			],
+			[
+				"add",
+				"addBlock"
+			],
+			[
+				"is",
+				"isValidChain"
+			],
+			[
+				"ls",
+				"lastHash"
+			],
+			[
+				"block",
+				"blockChain"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"last",
+				"lastBlock"
+			],
+			[
+				"time",
+				"timestamp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/test/SRP/app/screens/Home.js",
+		"/E/test/SRP/app/screens/scanned.js",
+		"/E/test/SRP/app.json",
+		"/E/test/SRP/app/components/LoginForm/LoginForm.js",
+		"/E/test/SRP/app/components/LoginForm/index.js",
+		"/E/test/SRP/app/components/Container/styles.js",
+		"/E/test/SRP/app/components/Container/Container.js",
+		"/E/test/SRP/app/components/Container/index.js",
+		"/E/test/SRP/App.js",
+		"/E/test/AwesomeProject/App.js",
+		"/E/test/SRP/app/index.js",
+		"/E/test/SRP/.expo/settings.json",
+		"/E/test/SRP/.expo/packager-info.json",
+		"/E/test/SRP/.vscode/settings.json",
+		"/E/test/vananaz-exam/app/components/Logo/Logo.js",
+		"/E/test/vananaz-exam/app/screens/Home.js",
+		"/E/test/vananaz-exam/app/index.js",
+		"/E/test/vananaz-exam/App.js",
+		"/E/react/AwesomeProject/react-native-login-template/app.json",
+		"/E/react/AwesomeProject/react-native-login-template/App/App.js",
+		"/C/xampp1/htdocs/email/send.php",
+		"/E/WORK/BlockChain/client/src/index.js",
+		"/E/WORK/BlockChain/client/src/components/Block.js",
+		"/E/WORK/BlockChain/peer/index.js",
+		"/E/WORK/peer-BlockChain/index.js",
+		"/E/react/AwesomeProject/react-native-login-template/index.js",
+		"/E/react/AwesomeProject/App.js",
+		"/E/WORK/Solaris/Login/resetPassword.php",
+		"/E/WORK/BlockChain/index.js",
+		"/E/WORK/BlockChain/Version-1/peer/index.js",
+		"/E/WORK/BlockChain/app/index.js",
+		"/C/xampp1/htdocs/email/sendgrid-php.php",
+		"/C/xampp1/htdocs/email/vendor/autoload.php",
+		"/E/WORK/email/send.php",
+		"/E/WORK/email/composer.json",
+		"/E/WORK/Solaris/Login/classes/phpmailer/mail.php",
+		"/E/WORK/Solaris/Login/classes/phpmailer/smtp.php",
+		"/E/WORK/Solaris/Login/classes/phpmailer/phpmailer.php",
+		"/E/WORK/Solaris/Login/login.php",
+		"/E/WORK/Solaris/Login/index.php",
+		"/E/WORK/nodejs/User-Login-System/README.md",
+		"/E/shapely/ITA/index1.html",
+		"/C/Users/Pranesh/AppData/Local/Temp/Rar$DIa16240.3256/config.php",
+		"/E/WORK/PDONE/Login/includes/config.php",
+		"/C/xampp1/htdocs/Login/view.php",
+		"/C/xampp1/htdocs/Login/FC8252C8DC55839.php",
+		"/C/xampp1/htdocs/Login/backd.php",
+		"/E/WORK/Solaris/Login/classes/user.php",
+		"/E/WORK/Solaris/Login/includes/config.php",
+		"/C/Users/Pranesh/Desktop/center/contact.html",
+		"/C/Users/Pranesh/Desktop/center/index.html",
+		"/C/xampp1/htdocs/att3/Student Result Management System/srms/includes/config.php",
+		"/C/xampp1/htdocs/att3/Student Result Management System/srms/index.php",
+		"/C/xampp1/htdocs/College Management System/database/mysql (1).sql",
+		"/C/xampp1/htdocs/College Management System/a.php",
+		"/C/xampp1/htdocs/att1/online-attendance-system-in-php-master/README.md",
+		"/C/xampp1/htdocs/att1/online-attendance-system-in-php-master/Attendance-System-master/README.md",
+		"/C/xampp1/htdocs/att/attendance/index.php",
+		"/C/xampp1/htdocs/Login/view8.php",
+		"/C/xampp1/htdocs/Login/view5.php",
+		"/C/xampp1/htdocs/Login/view3.php",
+		"/C/xampp1/htdocs/Login/check.php",
+		"/C/xampp1/htdocs/Login/intest.php",
+		"/C/xampp1/htdocs/Login/bend.php",
+		"/C/xampp1/htdocs/Login/dt.php",
+		"/C/xampp1/htdocs/Login/otptest.php",
+		"/C/xampp1/htdocs/Login/textlocal.class.php",
+		"/C/xampp1/htdocs/Login/sendsms.php",
+		"/C/xampp1/htdocs/Login/down.php",
+		"/C/xampp1/htdocs/att/attendance/setup.php",
+		"/C/xampp1/htdocs/Login1/Attendance Management System PHP/attendance/index.php",
+		"/C/Users/Pranesh/AppData/Local/Temp/Rar$DIa4492.45873/invd.php",
+		"/C/xampp1/htdocs/Login/index3.php",
+		"/C/xampp1/htdocs/otp/sendsms.php",
+		"/C/xampp1/htdocs/Login/Authenticator.php",
+		"/C/xampp1/htdocs/Login/index.php",
+		"/C/xampp1/htdocs/pervekkathaproject/test.php",
+		"/C/xampp1/php/pear/File/HtAccess.php",
+		"/C/xampp1/htdocs/Login/supd.php",
+		"/C/xampp1/htdocs/Login/view7.php",
+		"/C/xampp1/htdocs/Login/asp.sql",
+		"/E/shapely/index.php",
+		"/C/xampp1/htdocs/Login/view6.php",
+		"/C/xampp1/htdocs/Login1/classes/user.php",
+		"/C/xampp1/htdocs/Login/devd.php",
+		"/C/xampp1/htdocs/Login/invd.php",
+		"/C/xampp1/htdocs/Login/view2.php",
+		"/C/xampp/htdocs/classes/user.php",
+		"/C/xampp/htdocs/includes/config.php",
+		"/C/xampp1/htdocs/Login/view4.php",
+		"/C/xampp1/htdocs/Login1/general.php",
+		"/C/xampp1/htdocs/Login/login.php",
+		"/C/xampp1/htdocs/Login/classes/user.php",
+		"/C/xampp1/htdocs/Login/classes/password.php",
+		"/C/xampp1/htdocs/Login1/includes/config.php",
+		"/C/xampp1/htdocs/Login1/login.php",
+		"/C/xampp1/htdocs/Login1/index.php",
+		"/C/xampp1/htdocs/Login/includes/config.php",
+		"/C/xampp1/htdocs/Login/index2.php",
+		"/C/xampp1/htdocs/Login/dashboard4.php",
+		"/C/xampp1/htdocs/Login/dashboard3.php",
+		"/C/xampp1/htdocs/Login/dashboard.php",
+		"/C/xampp1/htdocs/Login/dashboard2.php",
+		"/C/xampp1/htdocs/Login/test.php",
+		"/E/PDONE/Login/includes/config.php",
+		"/E/PDONE/Login/classes/phpmailer/mail.php",
+		"/E/PDONE/Login/classes/phpmailer/phpmailer.php",
+		"/C/xampp/htdocs/Login/includes/config.php",
+		"/C/xampp/htdocs/Login/index2.php",
+		"/E/PDONE/Login/login.php",
+		"/E/test.php",
+		"/E/PDONE/Login/form.php",
+		"/E/Solaris/Login/index.php",
+		"/E/Solaris/index.php",
+		"/E/PDONE/Login/classes/user.php",
+		"/E/PDONE/Login/index.php",
+		"/E/PDONE/Login/classes/password.php",
+		"/C/Users/Pranesh/Downloads/2m.rtf",
+		"/E/PDONE/Login/test.php",
+		"/E/PDONE/Login/activate.php",
+		"/E/PDONE/Login/referral.php",
+		"/E/PDONE/Login/active2.php",
+		"/E/PDONE/Login/resetPassword.php",
+		"/E/PDONE/Login/reset.php",
+		"/C/xampp/htdocs/index2.php",
+		"/E/PDONE/otp.php",
+		"/C/Users/Pranesh/cc/package.json",
+		"/C/Users/Pranesh/cc/final/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
