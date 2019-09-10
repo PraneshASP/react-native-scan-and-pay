@@ -15,7 +15,7 @@
 			* A browser window pops up at > localhost:19002/
 			* Click on tunnel and then scan the QR-Code on the Expo App(You can download that app from PlayStore).
 			* Wooah ! See it in action .
-
+Note : You must add "css,vendor,js,images and fonts" folder into a folder named "public".
 
 		    This is a very basic project through which I learned React-Native. Through this app users can scan the barcode of products in a departmental store or where ever they want and send the total price to the Shop owner. I used PayPal's Payment Gateway . You can change it if you want . I  tested the app in development environment and it works perfectly .    
 
