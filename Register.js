@@ -27,7 +27,7 @@ constructor(props) {
  
  
  
-fetch('https://reactnativecode.000webhostapp.com/user_registration.php', {
+fetch('your_url/user_registration.php', {
   method: 'POST',
   headers: {
     'Accept': 'application/json',
