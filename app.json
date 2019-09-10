@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SmartTrolley",
-    "slug": "SmartTrolley",
+    "name": "Scan-And-Pay",
+    "slug": "Scan-And-Pay",
     "privacy": "public",
     "sdkVersion": "34.0.0",
     "platforms": [
